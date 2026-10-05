@@ -1,0 +1,10 @@
+{
+  "description": "This mobile-friendly application enhances user accessibility, allowing seamless navigation and interaction for on-the-go users, improving overall engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
